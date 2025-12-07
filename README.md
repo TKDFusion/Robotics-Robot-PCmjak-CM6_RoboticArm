@@ -8,7 +8,7 @@ Join the discord community: https://discord.com/invite/prjUvjmGpZ
 <img src="images/CM6_img.png" alt="drawing" width="5000"/>
 
 
-**If you want to build old version of CM6 check branch CM6_V1**<br />
+**If you want to build old version of CM6 check branch [CM6_V1](https://github.com/PCrnjak/CM6_COBOT_ROBOT/tree/CM6_V1)**<br />
 
 **Main difference between V1 and V2 are in the drivers used. V1 used S-drive that was hard to source and had poor software support and were expensive while V2 uses [Spectral drives](https://github.com/PCrnjak/Spectral-Micro-BLDC-controller) that are much cheeper and have good software support and connectivity.**
 
