@@ -2,6 +2,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) ![Issues](https://img.shields.io/github/issues/PCrnjak/CM6_COBOT_ROBOT) ![release](https://img.shields.io/github/v/release/PCrnjak/CM6_COBOT_ROBOT)
 # CM6 V2 Robotic arm
 
+> [!NOTE]
+> **CM6 is no longer developed.** Its files stay here for reference and you can still build it, but we no longer
+> support it. Our current arm is [PAROL6](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm)
+> ([manual](https://docs.source-robotics.com/PAROL-docs/)). Questions:
+> [Discussions](https://github.com/orgs/Source-Robotics/discussions).
+
 Our official website: https://source-robotics.com/ <br />
 Join the discord community: https://discord.com/invite/prjUvjmGpZ
 
